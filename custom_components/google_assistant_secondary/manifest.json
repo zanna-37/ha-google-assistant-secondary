@@ -1,0 +1,10 @@
+{
+  "domain": "google_assistant_secondary",
+  "name": "Google Assistant Secondary",
+  "version": "1.0.0",
+  "after_dependencies": ["camera", "matter"],
+  "dependencies": ["google_assistant", "http"],
+  "documentation": "https://github.com/zanna-37/ha-google-assistant-secondary",
+  "iot_class": "cloud_push",
+  "codeowners": []
+}

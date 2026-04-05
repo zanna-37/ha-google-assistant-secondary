@@ -1,0 +1,5 @@
+{
+  "name": "Google Assistant Secondary",
+  "homeassistant": "2024.1.0",
+  "render_readme": true
+}
