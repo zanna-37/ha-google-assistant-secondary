@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256">
+  <title>Google Assistant Secondary</title>
+  <circle cx="71.68" cy="71.68" r="51.20" fill="rgb(66, 133, 244)"/>
+  <circle cx="184.32" cy="71.68" r="51.20" fill="rgb(234, 67, 53)"/>
+  <circle cx="71.68" cy="184.32" r="51.20" fill="rgb(251, 188, 4)"/>
+  <circle cx="184.32" cy="184.32" r="51.20" fill="rgb(52, 168, 83)"/>
+  <circle cx="202.24" cy="202.24" r="49.92" fill="rgb(255, 255, 255)" stroke="rgba(0,0,0,0.15)" stroke-width="1.54"/>
+  <text x="202.24" y="202.24" font-family="Arial, Helvetica, sans-serif" font-weight="700" font-size="77.38" fill="rgb(60, 64, 67)" text-anchor="middle" dominant-baseline="central">2</text>
+</svg>
