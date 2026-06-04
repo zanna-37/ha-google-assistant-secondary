@@ -5,6 +5,7 @@
   "after_dependencies": ["camera", "matter"],
   "dependencies": ["google_assistant", "http"],
   "documentation": "https://github.com/zanna-37/ha-google-assistant-secondary",
+  "import_executor": true,
   "iot_class": "cloud_push",
   "codeowners": []
 }
